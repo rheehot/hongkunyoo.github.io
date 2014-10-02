@@ -443,3 +443,9 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+
+.w-900_h-650 {
+	width : 900px;
+	height: 650px;
+}
