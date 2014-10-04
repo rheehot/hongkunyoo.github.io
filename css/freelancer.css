@@ -449,3 +449,27 @@ footer .footer-below {
 	width : 900px;
 	height: 650px;
 }
+
+
+/*//////////--CUSTOMIZED--///////////*/
+
+.modal-body p {
+	margin : 20px 010.5px;
+}
+
+/*.navbar-brand img:hover {
+	background-image: url("img/star_30_white_hover.png"); 
+}*/
+
+.navbar-brand div {
+background-image: url("img/star_30_white.png");
+}
+.navbar-brand div:hover {
+background-image: url("img/star_30_white_hover.png");
+}
+
+.btn-green {
+  color: #ffffff;
+  background-color: #18bc9c;
+  border-color: #18bc9c;
+}
