@@ -473,3 +473,7 @@ background-image: url("img/star_30_white_hover.png");
   background-color: #18bc9c;
   border-color: #18bc9c;
 }
+
+.no-margin {
+	margin: 0 0 5px;
+}

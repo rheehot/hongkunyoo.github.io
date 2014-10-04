@@ -25,6 +25,10 @@ $(function() {
         $(this).removeClass("floating-label-form-group-with-focus");
     });
     
+    $('#portfolioModal7_btn').click(function(e){
+	  $('div.modal-body div .embed-responsive').html('<iframe class="embed-responsive-item" src="img/athere_mov.mp4" allowfullscreen controls></iframe>'); 
+	});
+    
 });
 
 // Highlight the top nav as scrolling occurs
@@ -36,3 +40,4 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
