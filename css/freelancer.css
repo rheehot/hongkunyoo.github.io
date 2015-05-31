@@ -511,3 +511,10 @@ background-image: url("img/star_30_white_hover.png");
 .clickable:active {
     text-decoration: none;
 }
+.myhighlighter {
+    /*color : #0066FF;*/
+    /*color : #008AE6;*/
+    color : #0074FF;
+    
+    
+}
