@@ -477,3 +477,37 @@ background-image: url("img/star_30_white_hover.png");
 .no-margin {
 	margin: 0 0 5px;
 }
+
+.level1 {
+    padding-left:30px;
+}
+.level2 {
+    padding-left:80px;
+}
+.impact-color {
+    color: #2c3e50;
+}
+.margin-down {
+    margin-bottom: 20px;
+}
+.clickable {
+    color : #2c3e50;
+    cursor: pointer;
+}
+
+.clickable:link {
+    text-decoration: none;
+}
+
+.clickable:visited {
+    text-decoration: none;
+}
+
+.clickable:hover {
+    text-decoration: underline;
+    color : #2c3e50;
+}
+
+.clickable:active {
+    text-decoration: none;
+}
